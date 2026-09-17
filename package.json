@@ -1,0 +1,29 @@
+{
+  "name": "auriga-clinic-booking",
+  "version": "1.0.0",
+  "description": "This is official repository for the problem statement solution for making real time based project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chaitanya2326/auriga-clinic-booking.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/chaitanya2326/auriga-clinic-booking/issues"
+  },
+  "homepage": "https://github.com/chaitanya2326/auriga-clinic-booking#readme",
+  "dependencies": {
+    "bcryptjs": "^3.0.3",
+    "cors": "^2.8.6",
+    "express": "^5.2.1",
+    "expresss": "^0.0.0",
+    "jsonwebtoken": "^9.0.3",
+    "sqlite3": "^6.0.1"
+  }
+}
